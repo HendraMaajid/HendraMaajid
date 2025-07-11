@@ -25,19 +25,6 @@ I am an Informatics student at Jenderal Soedirman University with a deep passion
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HendraMaajid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HendraMaajid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HendraMaajid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HendraMaajid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
