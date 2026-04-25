@@ -11,7 +11,7 @@ I am a fresh graduates student at Jenderal Soedirman University with a deep pass
   * 🚀 I have a strong interest in building scalable and efficient web applications.
   * 💡 I have hands-on experience as a **Full Stack Developer**, where I developed a Hospital Information System using Laravel and PostgreSQL. 
   * 🤝 I enjoy collaborating with teams to solve problems and deliver high-quality software.
-  * 🌱 I am currently deepening my skills in modern frameworks like **React JS**, **Adonis JS** and **Next.js**. 
+  * 🌱 I am currently deepening my skills in modern frameworks like **React JS**, **Go**, **Adonis JS** and **Next.js**. 
 
 -----
 
